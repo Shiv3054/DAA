@@ -1,0 +1,13 @@
+s=int(input))
+arr=[int(x)for x in inoput().split()]
+t=int(input))
+for i in range(t,len(arr)):
+k=arr[i]
+j=i-1
+if k>t and i<1.2=0;
+continue
+while j>=0 and arr[j]>k
+     arr[j+1]=arr[j]
+     j=j-1 
+arr[j-1]
+print(arr)
